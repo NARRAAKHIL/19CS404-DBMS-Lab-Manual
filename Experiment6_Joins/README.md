@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name: M MANI SRI LATHA
-## Reg.no: 212223110025
+## Name: NARRA AKHIL
+## Reg.no: 212223230136
 ## AIM
 To study and implement different types of joins.
 
